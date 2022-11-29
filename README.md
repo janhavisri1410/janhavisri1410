@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @janhavisri1410
-- 👀 I’m interested in learning machine executions.
+- 👀 I’m interested to trained a machine as a human!! 
+
 - 🌱 I’m currently learning ML/AI,Python!
 - 💞️ I’m looking to collaborate on machine learning projects
 - 📫 How to reach me...
